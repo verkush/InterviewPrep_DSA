@@ -1,0 +1,13 @@
+# General Form of a C Program
+
+Global declarations
+
+int main(parameter list)
+{
+    statement sequence
+}
+
+return-type function-name(parameter list)
+{
+    statement sequence
+}
